@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "El directiorio actual es: 'pwd'"
+echo "El directiorio actual es: `pwd`"
