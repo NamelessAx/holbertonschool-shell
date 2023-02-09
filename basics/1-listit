@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Su lista de archivos es. `ls`"
+ls
